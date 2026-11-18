@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">James Gatoru</title>
+  <desc id="desc">Full-stack developer and AI agentic engineer. A midnight-blue banner with a connected workflow illustration and the focus areas agents, RAG, and automation.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1280" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#10182B"/>
+      <stop offset="0.55" stop-color="#0B1120"/>
+      <stop offset="1" stop-color="#15152F"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="72" y1="0" x2="1208" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#67DDF1"/>
+      <stop offset="0.5" stop-color="#8EA6FF"/>
+      <stop offset="1" stop-color="#C5A0FF"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop stop-color="#6578DF" stop-opacity="0.19"/>
+      <stop offset="1" stop-color="#6578DF" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#899AC5" stroke-opacity="0.055"/>
+    </pattern>
+  </defs>
+
+  <rect width="1280" height="360" rx="24" fill="url(#background)"/>
+  <rect width="1280" height="360" rx="24" fill="url(#grid)"/>
+  <ellipse cx="1020" cy="170" rx="330" ry="240" fill="url(#glow)"/>
+  <rect x="0.5" y="0.5" width="1279" height="359" rx="23.5" stroke="#8599D0" stroke-opacity="0.16"/>
+  <path d="M72 1H1208" stroke="url(#accent)" stroke-width="2"/>
+
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="72" y="79" fill="#9EB1D4" font-size="13" font-weight="600" letter-spacing="3.2">SOFTWARE + APPLIED AI</text>
+    <text x="68" y="160" fill="#F1F5FF" font-size="68" font-weight="700" letter-spacing="-2.6">James Gatoru<tspan fill="#8EBEFF">.</tspan></text>
+    <text x="72" y="202" fill="#B7C5DD" font-size="22">Full-stack developer &amp; AI agentic engineer</text>
+
+    <g font-size="14" font-weight="500" fill="#CEDAF3">
+      <rect x="72" y="250" width="97" height="34" rx="17" fill="#17243A" stroke="#2C405F"/>
+      <circle cx="91" cy="267" r="3" fill="#71D3E7"/>
+      <text x="103" y="272">Agents</text>
+      <rect x="181" y="250" width="81" height="34" rx="17" fill="#17243A" stroke="#2C405F"/>
+      <circle cx="200" cy="267" r="3" fill="#9BA9FC"/>
+      <text x="212" y="272">RAG</text>
+      <rect x="274" y="250" width="132" height="34" rx="17" fill="#17243A" stroke="#2C405F"/>
+      <circle cx="293" cy="267" r="3" fill="#C1A2FA"/>
+      <text x="305" y="272">Automation</text>
+    </g>
+
+    <g stroke-linecap="round" stroke-linejoin="round">
+      <path d="M824 180H867Q883 180 883 164V118Q883 102 899 102H932M824 180H932M824 180H867Q883 180 883 196V242Q883 258 899 258H932" stroke="#607CAC" stroke-width="1.5"/>
+      <path d="M990 102H1023Q1039 102 1039 118V164Q1039 180 1055 180H1090M990 180H1090M990 258H1023Q1039 258 1039 242V196Q1039 180 1055 180H1090" stroke="#7D7DC3" stroke-width="1.5"/>
+      <circle cx="883" cy="145" r="3" fill="#91BAF7"/>
+      <circle cx="1039" cy="222" r="3" fill="#BAA5FF"/>
+
+      <rect x="766" y="151" width="58" height="58" rx="16" fill="#15263D" stroke="#4A7595"/>
+      <path d="M783 180H807M795 168V192" stroke="#8AD7EB" stroke-width="2"/>
+
+      <rect x="932" y="73" width="58" height="58" rx="16" fill="#1B2543" stroke="#667CB3"/>
+      <path d="M949 95L955 89L961 95L967 89L973 95V112H949V95Z" stroke="#AFBFFF" stroke-width="1.7"/>
+      <path d="M955 102H967M955 107H963" stroke="#AFBFFF" stroke-width="1.7"/>
+
+      <rect x="932" y="151" width="58" height="58" rx="16" fill="#1B2543" stroke="#667CB3"/>
+      <circle cx="961" cy="180" r="10" stroke="#AFBFFF" stroke-width="1.7"/>
+      <path d="M961 165V170M961 190V195M946 180H951M971 180H976" stroke="#AFBFFF" stroke-width="1.7"/>
+      <circle cx="961" cy="180" r="3" fill="#AFBFFF"/>
+
+      <rect x="932" y="229" width="58" height="58" rx="16" fill="#1B2543" stroke="#667CB3"/>
+      <path d="M951 250H971M951 258H966M951 266H961" stroke="#AFBFFF" stroke-width="1.7"/>
+
+      <rect x="1090" y="151" width="58" height="58" rx="16" fill="#28213F" stroke="#9474BC"/>
+      <path d="M1107 180L1116 189L1132 173" stroke="#D3B8FF" stroke-width="2"/>
+    </g>
+    <g font-size="10" font-weight="600" letter-spacing="1.8" text-anchor="middle" fill="#8F9FBE">
+      <text x="795" y="235">INPUT</text>
+      <text x="961" y="316">ORCHESTRATE</text>
+      <text x="1119" y="235">ACTION</text>
+    </g>
+  </g>
+</svg>
