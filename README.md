@@ -10,11 +10,11 @@
 </p>
 
 <p align="center">
-  <a href="https://developer-portfolio-psi-livid.vercel.app"><strong>Portfolio ↗</strong></a>
-  &nbsp; · &nbsp;
-  <a href="https://www.linkedin.com/in/james-mbugua-78a63917b/">LinkedIn</a>
-  &nbsp; · &nbsp;
-  <a href="mailto:gatorumbugua@gmail.com">Email</a>
+  <a href="https://james-gatoru.vercel.app/"><img src="./assets/link-portfolio.svg" alt="Visit my portfolio" width="110" height="38" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/james-mbugua-78a63917b/"><img src="./assets/link-linkedin.svg" alt="Connect on LinkedIn" width="108" height="38" /></a>
+  &nbsp;
+  <a href="mailto:gatorumbugua@gmail.com"><img src="./assets/link-email.svg" alt="Send me an email" width="90" height="38" /></a>
 </p>
 
 ---
