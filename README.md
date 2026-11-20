@@ -29,9 +29,9 @@ Away from the keyboard, I’m still an anime and comics nerd.
 
 ### Where AI fits into my work
 
-- **Agents** — Multi-agent workflows, tool integrations, orchestration, and human approval gates.
-- **RAG** — Connecting language models to relevant knowledge through retrieval-augmented generation.
-- **Automation** — Connecting APIs, data, and business processes to reduce repetitive work.
+- **Agents**: Multi-agent workflows, tool integrations, orchestration, and human approval gates.
+- **RAG**: Connecting language models to relevant knowledge through retrieval-augmented generation.
+- **Automation**: Connecting APIs, data, and business processes to reduce repetitive work.
 
 I care about what happens beyond the prompt: reliable execution, useful interfaces, and people staying in control.
 
